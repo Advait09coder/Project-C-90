@@ -22,3 +22,12 @@ background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
 h3{
     margin: 30px;
 }
+
+#output{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid red;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
